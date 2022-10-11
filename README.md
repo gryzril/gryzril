@@ -29,8 +29,8 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### Hi there. Welcome to my github landing page. 👋
+## Hi there. Welcome to my github landing page. 👋
 ### I'm about to graduate and I'm looking for my next professional opportunity 😄
-### 📫 How to reach me:
+## 📫 How to reach me:
 ### linkedin: https://www.linkedin.com/in/riley-gryzwa-15a547176/ 
-##  Email: rgryzwa@wisc.edu
+### Email: rgryzwa@wisc.edu
