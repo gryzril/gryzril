@@ -29,4 +29,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### Hi there 👋
+### Hi there. Welcome to my github landing page. 👋
+### I'm about to graduate and looking for my next programming opportunity
+### 📫 How to reach me:
+### linkedin: https://www.linkedin.com/in/riley-gryzwa-15a547176/ 
